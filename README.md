@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Itanas Minkevičius 👋
 
-<!--
-**ItanasMin/ItanasMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst based in Vilnius, Lithuania. Background in sales operations — passionate about turning raw data into clear business insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`SQL` `Python` `Power BI` `Qlik Sense` `MySQL` `pandas` `NumPy` `Matplotlib` `Excel`
+
+## 📂 Portfolio
+
+👉 **[Bit-Data-Analysis](https://github.com/ItanasMin/Bit-Data-Analysis)** — projects covering SQL, Python, Power BI, Statistics and Machine Learning from my Data Analytics programme at Baltic Institute of Technology.
+
+## 📫 Contact
+
+- itanas.min@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/itanas-minkevi%C4%8Dius-245217266/)
